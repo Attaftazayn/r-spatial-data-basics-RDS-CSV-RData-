@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/R-4.6.1-276DC3?logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/Data-CSV_Excel-blue.svg" alt="Data Source">
-  <img src="https://img.shields.io/github/repo-size/Attaftazayn/r-spatial-data-basics-RDS-CSV-RData-" alt="Repo Size">
 </p>
 
 ## Overview
